@@ -5,4 +5,4 @@ Il s'agit de:
 
 - Visualisation du scénario pédagogique à 5 requêtes:
 
-- Visualisation des différentes combinaisons de solutions du scénario pédagogique:
+- Visualisation des différentes combinaisons de solutions du scénario pédagogique: SolutionsCombinatoires_v2.pptx
